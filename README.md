@@ -35,7 +35,7 @@ ETH公开节点网站 https://ethereumnodes.com/
 
 USDT-TRC20：TW3V3AspnNzpYXCrFM3HURJyqXXXXXXXXX
 
-<img src="https://raw.githubusercontent.com/kewake/ETH-Crack/main/9X.png" width="35%">
+<img src="https://raw.githubusercontent.com/kewake/ETH-Crack/main/9X.png" width="45%">
 
 ### （ 靓号购买地址: https://shadowrocket.plus/product-category/tron ）
 ##  项目的github
