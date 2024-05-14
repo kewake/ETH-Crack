@@ -4,7 +4,7 @@
 
 ##  前提
 
-首先你得 python Windows可在应用商店安装
+首先你得安装 python Windows可在应用商店安装
  
 然后安装依赖库
 
