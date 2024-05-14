@@ -46,7 +46,7 @@ https://github.com/kewake/ETH-Crack
 
 ## 感谢
 
-本程序基于 [qskg8](https://github.com/qskg8/) 提供的代码修改
+[qskg8](https://github.com/qskg8/) 
 
 ## 免责声明
 
