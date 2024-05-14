@@ -1,28 +1,29 @@
+## v2.0更新
+
+大幅度提升速度，支持一边生成一边查询
+
 ##  前提
 
-首先你得安装 [Node.js](https://nodejs.org/en/download/)
- 
-这是官网：https://nodejs.org/en/download/
+首先你得 python Windows可在应用商店安装
  
 然后安装依赖库
 
-运行一键安装依赖库.bat
+在终端中运行 pip3 install web3 eth-account
 
 
 ## 使用说明:
 
-先生成钱包，再快速查询
+安装好后在 ethcrack.py 所在文件夹启动终端运行 python3 ethcrack.py
 
-建议生成100w个以上钱包然后再查询
+碰撞到有余额的钱包会保存到88.txt
 
-查询完毕现在会有提示，而且自动清空1.txt      
+并通过微信提醒（可选）
 
 ##  关于RPC
 
-请在rpc.txt更换成你们自己的rpc节点
+请在rpc_nodes下添加rpc节点，越多越好
 
-
-ETH公开节点网站https://ethereumnodes.com/
+ETH公开节点网站 https://ethereumnodes.com/
 
 有能力的还是自己去注册，教程如下
 
@@ -30,17 +31,13 @@ ETH公开节点网站https://ethereumnodes.com/
 
 用github登录即可 一个月 1亿次查询 每秒上线350次
 
-##  新增功能邮箱通知 
-
-  如查询到余额大于0会保存在88.txt
-
-  并通过微信通知（可选）
-
 ##  打赏作者
 
 USDT-TRC20：TW3V3AspnNzpYXCrFM3HURJyqXXXXXXXXX
 
-（ 靓号购买地址: https://shadowrocket.plus/product-category/tron ）
+<img src="https://raw.githubusercontent.com/kewake/ETH-Crack/main/9X.png" width="25%">
+
+### （ 靓号购买地址: https://shadowrocket.plus/product-category/tron ）
 ##  项目的github
 
 https://github.com/kewake/ETH-Crack
